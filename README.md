@@ -22,3 +22,6 @@ In Terminal, go to the directory that contains the vandale script, and run `./va
 
 Inspired by the work of [Dirk-Jan Binnema](http://www.djcbsoftware.nl/) who made [gnuvd](http://www.djcbsoftware.nl/projecten/gnuvd/).
 
+## Contributors
+
+Thanks to @Tim-Hobbes for updating the script
